@@ -1,0 +1,6 @@
+d:\Projects\mysnake\mysnake\mysnake\bin\Debug\mysnake.exe.config
+d:\Projects\mysnake\mysnake\mysnake\bin\Debug\mysnake.exe
+d:\Projects\mysnake\mysnake\mysnake\bin\Debug\mysnake.pdb
+d:\Projects\mysnake\mysnake\mysnake\obj\Debug\mysnake.csprojResolveAssemblyReference.cache
+d:\Projects\mysnake\mysnake\mysnake\obj\Debug\mysnake.exe
+d:\Projects\mysnake\mysnake\mysnake\obj\Debug\mysnake.pdb
